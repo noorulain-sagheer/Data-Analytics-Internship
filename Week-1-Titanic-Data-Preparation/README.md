@@ -1,6 +1,6 @@
-# 🚢 Week 1 – Titanic Dataset: Data Preparation & Cleaning
+# Week 1 – Titanic Dataset: Data Preparation & Cleaning
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of the **Data Analytics Internship Program (Week 1)**.
 
@@ -8,7 +8,7 @@ The objective of this project was to inspect, clean, and prepare the Titanic dat
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Import and inspect the dataset
 - Explore the dataset structure
@@ -21,7 +21,7 @@ The objective of this project was to inspect, clean, and prepare the Titanic dat
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Google Colab
@@ -30,7 +30,7 @@ The objective of this project was to inspect, clean, and prepare the Titanic dat
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset Name:** Titanic Dataset
 
@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
-## 🔍 Data Preparation Steps
+## Data Preparation Steps
 
 ### 1. Dataset Exploration
 
@@ -69,7 +69,7 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | File | Description |
 |------|-------------|
