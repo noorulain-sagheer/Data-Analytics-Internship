@@ -19,16 +19,12 @@ This repository contains all weekly projects, assignments, and learning progress
 
 ## Weekly Projects
 
-| Week | Project | Status |
+| Tasks | Project | Status |
 |------|---------|--------|
-| Week 1 | Titanic Dataset – Data Preparation & Cleaning | Completed |
-| Week 2 | Coming Soon | 
-| Week 3 | Coming Soon | 
-| Week 4 | Coming Soon | 
-| Week 5 | Coming Soon | 
-| Week 6 | Coming Soon | 
-| Week 7 | Coming Soon | 
-| Week 8 | Coming Soon | 
+| Task 1 | Titanic Dataset – Data Preparation & Cleaning | Completed |
+| Task 2 | Titanic Dataset – Exploratory Data Analysis (EDA) | Completed |
+| Task 3 | Chinook Database – SQL, Python & Power BI Business Analysis | Completed |
+| Task 4 | Customer Churn & Retention Analysis | Completed |
 
 ---
 
